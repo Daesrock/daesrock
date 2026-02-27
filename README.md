@@ -21,7 +21,7 @@ gaming.exe | coffee.addict ☕ | camera.raw | newjeans.play 🎧
 ```
 
 ## ⚙️ Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,mysql,postgres,linux,git&perline=6" /> </p>
+<p> <img width="100%" src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,mysql,postgres,linux,git" /> </p>
 
 ## 🌐 Socials
 <p>
