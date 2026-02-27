@@ -21,10 +21,10 @@ gaming.exe | coffee.addict ☕ | camera.raw | newjeans.play 🎧
 ```
 
 ## ⚙️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,mysql,postgres,sqlite,linux,git,vscode&perline=6" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,mysql,postgres,linux,git&perline=6" /> </p>
 
 ## 🌐 Socials
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/carlospardov" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
